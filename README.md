@@ -1,4 +1,4 @@
-# vaccination-predictions
+# notebook.ipynb
 Name: Edgar Muturi
 Course: Data Science Part Time
 Phase 3 Project Notebook
